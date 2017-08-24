@@ -21,11 +21,12 @@ define('DB_NAME', 'sukremeras');
 /** Tu nombre de usuario de MySQL */
 define('DB_USER', 'izavalia');
 
+
 /** Tu contraseña de MySQL */
-define('DB_PASSWORD', 'cryptoMonsun22');
+define('DB_PASSWORD', '');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
-define('DB_HOST', 'izavalia.dhalumnos.com');
+define('DB_HOST', 'localhost');
 
 /** Codificación de caracteres para la base de datos. */
 define('DB_CHARSET', 'utf8mb4');

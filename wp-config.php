@@ -26,7 +26,7 @@ define('DB_USER', 'izavalia');
 define('DB_PASSWORD', 'cryptoMonsun22');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
-define('DB_HOST', 'izavalia.dhalumnos.com');
+define('DB_HOST', 'localhost');
 
 /** Codificación de caracteres para la base de datos. */
 define('DB_CHARSET', 'utf8mb4');

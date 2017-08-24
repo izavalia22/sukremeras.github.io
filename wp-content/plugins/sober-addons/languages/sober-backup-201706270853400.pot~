@@ -1,0 +1,1741 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-09 10:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: sober-addons.php:80
+#, php-format
+msgid ""
+"<strong>%s</strong> requires <strong><a href=\"http://bit.ly/vcomposer\" "
+"target=\"_blank\">Visual Composer</a></strong> plugin to be installed and "
+"activated on your site."
+msgstr ""
+
+#: includes/class-sober-vc.php:54
+msgid "Separate URL"
+msgstr ""
+
+#: includes/class-sober-vc.php:55
+msgid "Do not wrap heading text with link tag. Display URL separately"
+msgstr ""
+
+#: includes/class-sober-vc.php:58 includes/class-sober-vc.php:66
+#: includes/class-sober-vc.php:138 includes/class-sober-vc.php:219
+#: includes/class-sober-vc.php:333 includes/class-sober-vc.php:531
+#: includes/class-sober-vc.php:1002 includes/class-sober-vc.php:1115
+msgid "Yes"
+msgstr ""
+
+#: includes/class-sober-vc.php:62
+msgid "Link Arrow"
+msgstr ""
+
+#: includes/class-sober-vc.php:63
+msgid "Add an arrow to the separated link when hover"
+msgstr ""
+
+#: includes/class-sober-vc.php:83
+msgid "Product Grid"
+msgstr ""
+
+#: includes/class-sober-vc.php:84
+msgid "Display products in grid"
+msgstr ""
+
+#: includes/class-sober-vc.php:87 includes/class-sober-vc.php:158
+#: includes/class-sober-vc.php:240 includes/class-sober-vc.php:298
+#: includes/class-sober-vc.php:352 includes/class-sober-vc.php:389
+#: includes/class-sober-vc.php:472 includes/class-sober-vc.php:618
+#: includes/class-sober-vc.php:669 includes/class-sober-vc.php:730
+#: includes/class-sober-vc.php:815 includes/class-sober-vc.php:900
+#: includes/class-sober-vc.php:949 includes/class-sober-vc.php:970
+#: includes/class-sober-vc.php:991 includes/class-sober-vc.php:1019
+#: includes/class-sober-vc.php:1086 includes/class-sober-vc.php:1134
+#: includes/class-sober-vc.php:1317 includes/class-sober-vc.php:1398
+#: includes/class-sober-vc.php:1476 includes/class-sober-vc.php:1532
+#: includes/class-sober-vc.php:1626 includes/class-sober-vc.php:1679
+#: includes/class-sober-vc.php:1726
+msgid "Sober"
+msgstr ""
+
+#: includes/class-sober-vc.php:90 includes/class-sober-vc.php:161
+#: includes/class-sober-vc.php:243
+msgid "Number Of Products"
+msgstr ""
+
+#: includes/class-sober-vc.php:91 includes/class-sober-vc.php:244
+msgid "Total number of products you want to show"
+msgstr ""
+
+#: includes/class-sober-vc.php:97 includes/class-sober-vc.php:168
+#: includes/class-sober-vc.php:250 includes/class-sober-vc.php:308
+msgid "Columns"
+msgstr ""
+
+#: includes/class-sober-vc.php:98 includes/class-sober-vc.php:176
+#: includes/class-sober-vc.php:251
+msgid "Display products in how many columns"
+msgstr ""
+
+#: includes/class-sober-vc.php:102 includes/class-sober-vc.php:172
+#: includes/class-sober-vc.php:256 includes/class-sober-vc.php:314
+msgid "4 Columns"
+msgstr ""
+
+#: includes/class-sober-vc.php:103 includes/class-sober-vc.php:173
+#: includes/class-sober-vc.php:257
+msgid "5 Columns"
+msgstr ""
+
+#: includes/class-sober-vc.php:104 includes/class-sober-vc.php:174
+#: includes/class-sober-vc.php:258
+msgid "6 Columns"
+msgstr ""
+
+#: includes/class-sober-vc.php:108 includes/class-sober-vc.php:318
+msgid "Category"
+msgstr ""
+
+#: includes/class-sober-vc.php:109 includes/class-sober-vc.php:190
+msgid ""
+"Select what categories you want to use. Leave it empty to use all categories."
+msgstr ""
+
+#: includes/class-sober-vc.php:120 includes/class-sober-vc.php:262
+msgid "Product Type"
+msgstr ""
+
+#: includes/class-sober-vc.php:121 includes/class-sober-vc.php:263
+msgid "Select product type you want to show"
+msgstr ""
+
+#: includes/class-sober-vc.php:125 includes/class-sober-vc.php:267
+msgid "Recent Products"
+msgstr ""
+
+#: includes/class-sober-vc.php:126 includes/class-sober-vc.php:268
+msgid "Featured Products"
+msgstr ""
+
+#: includes/class-sober-vc.php:127 includes/class-sober-vc.php:269
+msgid "Sale Products"
+msgstr ""
+
+#: includes/class-sober-vc.php:128 includes/class-sober-vc.php:270
+msgid "Best Selling Products"
+msgstr ""
+
+#: includes/class-sober-vc.php:129 includes/class-sober-vc.php:271
+msgid "Top Rated Products"
+msgstr ""
+
+#: includes/class-sober-vc.php:133 includes/class-sober-vc.php:215
+msgid "Load More Button"
+msgstr ""
+
+#: includes/class-sober-vc.php:134 includes/class-sober-vc.php:221
+msgid "Show load more button with ajax loading"
+msgstr ""
+
+#: includes/class-sober-vc.php:143 includes/class-sober-vc.php:225
+#: includes/class-sober-vc.php:283 includes/class-sober-vc.php:337
+#: includes/class-sober-vc.php:374 includes/class-sober-vc.php:457
+#: includes/class-sober-vc.php:597 includes/class-sober-vc.php:654
+#: includes/class-sober-vc.php:715 includes/class-sober-vc.php:752
+#: includes/class-sober-vc.php:879 includes/class-sober-vc.php:935
+#: includes/class-sober-vc.php:956 includes/class-sober-vc.php:977
+#: includes/class-sober-vc.php:1005 includes/class-sober-vc.php:1072
+#: includes/class-sober-vc.php:1121 includes/class-sober-vc.php:1303
+#: includes/class-sober-vc.php:1385 includes/class-sober-vc.php:1462
+#: includes/class-sober-vc.php:1518 includes/class-sober-vc.php:1612
+#: includes/class-sober-vc.php:1665 includes/class-sober-vc.php:1712
+#: includes/class-sober-vc.php:1792
+msgid "Extra class name"
+msgstr ""
+
+#: includes/class-sober-vc.php:144 includes/class-sober-vc.php:229
+#: includes/class-sober-vc.php:284 includes/class-sober-vc.php:338
+#: includes/class-sober-vc.php:375 includes/class-sober-vc.php:458
+#: includes/class-sober-vc.php:598 includes/class-sober-vc.php:655
+#: includes/class-sober-vc.php:716 includes/class-sober-vc.php:753
+#: includes/class-sober-vc.php:880 includes/class-sober-vc.php:936
+#: includes/class-sober-vc.php:957 includes/class-sober-vc.php:978
+#: includes/class-sober-vc.php:1006 includes/class-sober-vc.php:1073
+#: includes/class-sober-vc.php:1123 includes/class-sober-vc.php:1304
+#: includes/class-sober-vc.php:1387 includes/class-sober-vc.php:1463
+#: includes/class-sober-vc.php:1519 includes/class-sober-vc.php:1613
+#: includes/class-sober-vc.php:1666 includes/class-sober-vc.php:1713
+#: includes/class-sober-vc.php:1793
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: includes/class-sober-vc.php:154
+msgid "Product Tabs"
+msgstr ""
+
+#: includes/class-sober-vc.php:155
+msgid "Product grid grouped by tabs"
+msgstr ""
+
+#: includes/class-sober-vc.php:165
+msgid "Total number of products will be display in single tab"
+msgstr ""
+
+#: includes/class-sober-vc.php:179
+msgid "Tabs"
+msgstr ""
+
+#: includes/class-sober-vc.php:180
+msgid "Select how to group products in tabs"
+msgstr ""
+
+#: includes/class-sober-vc.php:184
+msgid "Group by category"
+msgstr ""
+
+#: includes/class-sober-vc.php:185
+msgid "Group by feature"
+msgstr ""
+
+#: includes/class-sober-vc.php:189
+msgid "Categories"
+msgstr ""
+
+#: includes/class-sober-vc.php:205
+msgid "Tabs Effect"
+msgstr ""
+
+#: includes/class-sober-vc.php:206
+msgid "Select the way tabs load products"
+msgstr ""
+
+#: includes/class-sober-vc.php:210
+msgid "Isotope Toggle"
+msgstr ""
+
+#: includes/class-sober-vc.php:211
+msgid "Ajax Load"
+msgstr ""
+
+#: includes/class-sober-vc.php:236
+msgid "Product Carousel"
+msgstr ""
+
+#: includes/class-sober-vc.php:237
+msgid "Product carousel slider"
+msgstr ""
+
+#: includes/class-sober-vc.php:255 includes/class-sober-vc.php:313
+msgid "3 Columns"
+msgstr ""
+
+#: includes/class-sober-vc.php:275
+msgid "Auto Play"
+msgstr ""
+
+#: includes/class-sober-vc.php:276
+msgid "Auto play speed in miliseconds. Enter \"0\" to disable auto play."
+msgstr ""
+
+#: includes/class-sober-vc.php:294
+msgid "Sober Post Grid"
+msgstr ""
+
+#: includes/class-sober-vc.php:295
+msgid "Display posts in grid"
+msgstr ""
+
+#: includes/class-sober-vc.php:301
+msgid "Number of posts you want to show"
+msgstr ""
+
+#: includes/class-sober-vc.php:302
+msgid "Number of posts"
+msgstr ""
+
+#: includes/class-sober-vc.php:309
+msgid "Display posts in how many columns"
+msgstr ""
+
+#: includes/class-sober-vc.php:319
+msgid "Enter categories name"
+msgstr ""
+
+#: includes/class-sober-vc.php:329
+msgid "Hide Post Meta"
+msgstr ""
+
+#: includes/class-sober-vc.php:330
+msgid "Hide information about date, category"
+msgstr ""
+
+#: includes/class-sober-vc.php:348
+msgid "Countdown"
+msgstr ""
+
+#: includes/class-sober-vc.php:349
+msgid "Countdown digital clock"
+msgstr ""
+
+#: includes/class-sober-vc.php:355
+msgid "Date"
+msgstr ""
+
+#: includes/class-sober-vc.php:356
+msgid "Enter the date in format: YYYY/MM/DD"
+msgstr ""
+
+#: includes/class-sober-vc.php:362
+msgid "Text Align"
+msgstr ""
+
+#: includes/class-sober-vc.php:363
+msgid "Select text alignment"
+msgstr ""
+
+#: includes/class-sober-vc.php:367 includes/class-sober-vc.php:450
+#: includes/class-sober-vc.php:506 includes/class-sober-vc.php:697
+#: includes/class-sober-vc.php:789 includes/class-sober-vc.php:829
+#: includes/class-sober-vc.php:1505
+msgid "Left"
+msgstr ""
+
+#: includes/class-sober-vc.php:368 includes/class-sober-vc.php:451
+#: includes/class-sober-vc.php:507 includes/class-sober-vc.php:698
+#: includes/class-sober-vc.php:790 includes/class-sober-vc.php:1504
+msgid "Center"
+msgstr ""
+
+#: includes/class-sober-vc.php:369 includes/class-sober-vc.php:452
+#: includes/class-sober-vc.php:508 includes/class-sober-vc.php:699
+#: includes/class-sober-vc.php:791 includes/class-sober-vc.php:830
+#: includes/class-sober-vc.php:1506
+msgid "Right"
+msgstr ""
+
+#: includes/class-sober-vc.php:385
+msgid "Sober Button"
+msgstr ""
+
+#: includes/class-sober-vc.php:386
+msgid "Button in style"
+msgstr ""
+
+#: includes/class-sober-vc.php:392 includes/class-sober-vc.php:762
+#: includes/class-sober-vc.php:769 includes/class-sober-vc.php:776
+#: includes/class-sober-vc.php:787 includes/class-sober-vc.php:799
+msgid "Text"
+msgstr ""
+
+#: includes/class-sober-vc.php:393
+msgid "Enter button text"
+msgstr ""
+
+#: includes/class-sober-vc.php:399
+msgid "URL (Link)"
+msgstr ""
+
+#: includes/class-sober-vc.php:404
+msgid "Style"
+msgstr ""
+
+#: includes/class-sober-vc.php:405
+msgid "Select button style"
+msgstr ""
+
+#: includes/class-sober-vc.php:409 includes/class-sober-vc.php:420
+#: includes/class-sober-vc.php:1280
+msgid "Normal"
+msgstr ""
+
+#: includes/class-sober-vc.php:410
+msgid "Outline"
+msgstr ""
+
+#: includes/class-sober-vc.php:411 includes/class-sober-vc.php:592
+#: includes/class-sober-vc.php:779
+msgid "Light"
+msgstr ""
+
+#: includes/class-sober-vc.php:415
+msgid "Size"
+msgstr ""
+
+#: includes/class-sober-vc.php:416
+msgid "Select button size"
+msgstr ""
+
+#: includes/class-sober-vc.php:421
+msgid "Large"
+msgstr ""
+
+#: includes/class-sober-vc.php:422
+msgid "Small"
+msgstr ""
+
+#: includes/class-sober-vc.php:430 includes/class-sober-vc.php:1044
+#: includes/class-sober-vc.php:1441
+msgid "Color"
+msgstr ""
+
+#: includes/class-sober-vc.php:431
+msgid "Select button color"
+msgstr ""
+
+#: includes/class-sober-vc.php:435 includes/class-sober-vc.php:591
+#: includes/class-sober-vc.php:778
+msgid "Dark"
+msgstr ""
+
+#: includes/class-sober-vc.php:436
+msgid "White"
+msgstr ""
+
+#: includes/class-sober-vc.php:444 includes/class-sober-vc.php:1499
+msgid "Alignment"
+msgstr ""
+
+#: includes/class-sober-vc.php:445
+msgid "Select button alignment"
+msgstr ""
+
+#: includes/class-sober-vc.php:449
+msgid "Inline"
+msgstr ""
+
+#: includes/class-sober-vc.php:468 includes/class-sober-vc.php:476
+#: includes/class-sober-vc.php:622 includes/class-sober-vc.php:673
+#: includes/class-sober-vc.php:734 includes/class-sober-vc.php:819
+msgid "Banner Image"
+msgstr ""
+
+#: includes/class-sober-vc.php:469
+msgid "Banner image for promotion"
+msgstr ""
+
+#: includes/class-sober-vc.php:475 includes/class-sober-vc.php:621
+#: includes/class-sober-vc.php:672 includes/class-sober-vc.php:733
+#: includes/class-sober-vc.php:818 includes/class-sober-vc.php:1729
+msgid "Image"
+msgstr ""
+
+#: includes/class-sober-vc.php:481 includes/class-sober-vc.php:628
+#: includes/class-sober-vc.php:678 includes/class-sober-vc.php:739
+#: includes/class-sober-vc.php:1555 includes/class-sober-vc.php:1575
+msgid "Image size"
+msgstr ""
+
+#: includes/class-sober-vc.php:482 includes/class-sober-vc.php:629
+#: includes/class-sober-vc.php:679 includes/class-sober-vc.php:740
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: includes/class-sober-vc.php:488
+msgid "Banner description"
+msgstr ""
+
+#: includes/class-sober-vc.php:489
+msgid "A short text display before the banner text"
+msgstr ""
+
+#: includes/class-sober-vc.php:494 includes/class-sober-vc.php:685
+msgid "Banner Text"
+msgstr ""
+
+#: includes/class-sober-vc.php:495
+msgid "Enter the banner text"
+msgstr ""
+
+#: includes/class-sober-vc.php:501 includes/class-sober-vc.php:692
+msgid "Banner Text Position"
+msgstr ""
+
+#: includes/class-sober-vc.php:502 includes/class-sober-vc.php:693
+msgid "Select text position"
+msgstr ""
+
+#: includes/class-sober-vc.php:520
+msgid "Enter text font size."
+msgstr ""
+
+#: includes/class-sober-vc.php:521
+msgid "Enter text line height."
+msgstr ""
+
+#: includes/class-sober-vc.php:522
+msgid "Select text color."
+msgstr ""
+
+#: includes/class-sober-vc.php:527
+msgid "Use theme default font family?"
+msgstr ""
+
+#: includes/class-sober-vc.php:528
+msgid "Use font family from the theme."
+msgstr ""
+
+#: includes/class-sober-vc.php:539
+msgid "Select font family."
+msgstr ""
+
+#: includes/class-sober-vc.php:540
+msgid "Select font styling."
+msgstr ""
+
+#: includes/class-sober-vc.php:549 includes/class-sober-vc.php:703
+#: includes/class-sober-vc.php:746 includes/class-sober-vc.php:867
+msgid "Link (URL)"
+msgstr ""
+
+#: includes/class-sober-vc.php:554
+msgid "Button Type"
+msgstr ""
+
+#: includes/class-sober-vc.php:555
+msgid "Select button type"
+msgstr ""
+
+#: includes/class-sober-vc.php:559
+msgid "Light Button"
+msgstr ""
+
+#: includes/class-sober-vc.php:560
+msgid "Normal Button"
+msgstr ""
+
+#: includes/class-sober-vc.php:561
+msgid "Arrow Icon"
+msgstr ""
+
+#: includes/class-sober-vc.php:565 includes/class-sober-vc.php:641
+#: includes/class-sober-vc.php:708 includes/class-sober-vc.php:765
+#: includes/class-sober-vc.php:872 includes/class-sober-vc.php:1364
+msgid "Button Text"
+msgstr ""
+
+#: includes/class-sober-vc.php:566 includes/class-sober-vc.php:709
+#: includes/class-sober-vc.php:766 includes/class-sober-vc.php:873
+msgid "Enter the text for banner button"
+msgstr ""
+
+#: includes/class-sober-vc.php:575
+msgid "Button Visibility"
+msgstr ""
+
+#: includes/class-sober-vc.php:576
+msgid "Select button visibility"
+msgstr ""
+
+#: includes/class-sober-vc.php:580
+msgid "Always visible"
+msgstr ""
+
+#: includes/class-sober-vc.php:581
+msgid "When hover"
+msgstr ""
+
+#: includes/class-sober-vc.php:582
+msgid "Hidden"
+msgstr ""
+
+#: includes/class-sober-vc.php:586
+msgid "Banner Color Scheme"
+msgstr ""
+
+#: includes/class-sober-vc.php:587
+msgid "Select color scheme for description, button color"
+msgstr ""
+
+#: includes/class-sober-vc.php:604 includes/class-sober-vc.php:886
+msgid "CSS box"
+msgstr ""
+
+#: includes/class-sober-vc.php:607 includes/class-sober-vc.php:889
+msgid "Design Options"
+msgstr ""
+
+#: includes/class-sober-vc.php:614
+msgid "Banner Image 2"
+msgstr ""
+
+#: includes/class-sober-vc.php:615
+msgid "Simple banner that supports multiple buttons"
+msgstr ""
+
+#: includes/class-sober-vc.php:635
+msgid "Buttons"
+msgstr ""
+
+#: includes/class-sober-vc.php:636
+msgid "Enter link and label for buttons."
+msgstr ""
+
+#: includes/class-sober-vc.php:646 includes/class-sober-vc.php:1370
+msgid "Button Link"
+msgstr ""
+
+#: includes/class-sober-vc.php:665
+msgid "Banner Image 3"
+msgstr ""
+
+#: includes/class-sober-vc.php:666
+msgid "Simple banner with text at bottom"
+msgstr ""
+
+#: includes/class-sober-vc.php:686
+msgid "Enter banner text"
+msgstr ""
+
+#: includes/class-sober-vc.php:726
+msgid "Banner Image 4"
+msgstr ""
+
+#: includes/class-sober-vc.php:727
+msgid "Simple banner image with text"
+msgstr ""
+
+#: includes/class-sober-vc.php:759
+msgid "Banner Content"
+msgstr ""
+
+#: includes/class-sober-vc.php:772
+msgid "Text Color Scheme"
+msgstr ""
+
+#: includes/class-sober-vc.php:773
+msgid "Select color scheme for banner content"
+msgstr ""
+
+#: includes/class-sober-vc.php:783
+msgid "Content Horizontal Alignment"
+msgstr ""
+
+#: includes/class-sober-vc.php:784
+msgid "Horizontal alignment of banner text"
+msgstr ""
+
+#: includes/class-sober-vc.php:795
+msgid "Content Vertical Alignment"
+msgstr ""
+
+#: includes/class-sober-vc.php:796
+msgid "Vertical alignment of banner text"
+msgstr ""
+
+#: includes/class-sober-vc.php:801 includes/class-sober-vc.php:831
+msgid "Top"
+msgstr ""
+
+#: includes/class-sober-vc.php:802
+msgid "Middle"
+msgstr ""
+
+#: includes/class-sober-vc.php:803 includes/class-sober-vc.php:832
+msgid "Bottom"
+msgstr ""
+
+#: includes/class-sober-vc.php:811
+msgid "Category Banner"
+msgstr ""
+
+#: includes/class-sober-vc.php:812
+msgid "Banner image with special style"
+msgstr ""
+
+#: includes/class-sober-vc.php:824
+msgid "Image Position"
+msgstr ""
+
+#: includes/class-sober-vc.php:825
+msgid "Select image position"
+msgstr ""
+
+#: includes/class-sober-vc.php:833 includes/class-sober-vc.php:858
+msgid "Top Left"
+msgstr ""
+
+#: includes/class-sober-vc.php:834 includes/class-sober-vc.php:859
+msgid "Top Right"
+msgstr ""
+
+#: includes/class-sober-vc.php:835 includes/class-sober-vc.php:862
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/class-sober-vc.php:836 includes/class-sober-vc.php:863
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/class-sober-vc.php:840 includes/class-sober-vc.php:1286
+msgid "Title"
+msgstr ""
+
+#: includes/class-sober-vc.php:841
+msgid "The banner title"
+msgstr ""
+
+#: includes/class-sober-vc.php:847
+msgid "Description"
+msgstr ""
+
+#: includes/class-sober-vc.php:848
+msgid "The banner description"
+msgstr ""
+
+#: includes/class-sober-vc.php:853
+msgid "Text Position"
+msgstr ""
+
+#: includes/class-sober-vc.php:854
+msgid "Select the position for title and description"
+msgstr ""
+
+#: includes/class-sober-vc.php:860
+msgid "Middle Left"
+msgstr ""
+
+#: includes/class-sober-vc.php:861
+msgid "Middle Right"
+msgstr ""
+
+#: includes/class-sober-vc.php:896
+msgid "Sober Product"
+msgstr ""
+
+#: includes/class-sober-vc.php:897
+msgid "Display single product banner"
+msgstr ""
+
+#: includes/class-sober-vc.php:903 includes/class-sober-vc.php:1545
+msgid "Images"
+msgstr ""
+
+#: includes/class-sober-vc.php:904
+msgid "Upload a product image"
+msgstr ""
+
+#: includes/class-sober-vc.php:910
+msgid "Product name"
+msgstr ""
+
+#: includes/class-sober-vc.php:911
+msgid "Enter product name"
+msgstr ""
+
+#: includes/class-sober-vc.php:917
+msgid "Product description"
+msgstr ""
+
+#: includes/class-sober-vc.php:918
+msgid "Enter product description"
+msgstr ""
+
+#: includes/class-sober-vc.php:923
+msgid "Product price"
+msgstr ""
+
+#: includes/class-sober-vc.php:924
+msgid "Enter product price. Only allow number."
+msgstr ""
+
+#: includes/class-sober-vc.php:929
+msgid "Product URL"
+msgstr ""
+
+#: includes/class-sober-vc.php:945
+msgid "Banner Grid 4"
+msgstr ""
+
+#: includes/class-sober-vc.php:946
+msgid "Arrange 4 banners per row with unusual structure."
+msgstr ""
+
+#: includes/class-sober-vc.php:966
+msgid "Banner Grid 5"
+msgstr ""
+
+#: includes/class-sober-vc.php:967
+msgid "Arrange 5 banners in 3 columns."
+msgstr ""
+
+#: includes/class-sober-vc.php:987
+msgid "Banner Grid 6"
+msgstr ""
+
+#: includes/class-sober-vc.php:988
+msgid "Arrange 6 banners in 4 columns."
+msgstr ""
+
+#: includes/class-sober-vc.php:998
+msgid "Reverse Order"
+msgstr ""
+
+#: includes/class-sober-vc.php:999
+msgid "Reverse the order of banners inside this grid"
+msgstr ""
+
+#: includes/class-sober-vc.php:1015
+msgid "Circle Chart"
+msgstr ""
+
+#: includes/class-sober-vc.php:1016
+msgid "Circle chart with animation"
+msgstr ""
+
+#: includes/class-sober-vc.php:1022
+msgid "Value"
+msgstr ""
+
+#: includes/class-sober-vc.php:1023
+msgid "Enter the chart value in percentage. Minimum 0 and maximum 100."
+msgstr ""
+
+#: includes/class-sober-vc.php:1030
+msgid "Circle Size"
+msgstr ""
+
+#: includes/class-sober-vc.php:1031
+msgid "Width of the circle"
+msgstr ""
+
+#: includes/class-sober-vc.php:1037
+msgid "Circle thickness"
+msgstr ""
+
+#: includes/class-sober-vc.php:1038
+msgid "Width of the arc"
+msgstr ""
+
+#: includes/class-sober-vc.php:1045
+msgid "Pick color for the circle"
+msgstr ""
+
+#: includes/class-sober-vc.php:1051
+msgid "Label Source"
+msgstr ""
+
+#: includes/class-sober-vc.php:1052
+msgid "Chart label source"
+msgstr ""
+
+#: includes/class-sober-vc.php:1056
+msgid "Auto"
+msgstr ""
+
+#: includes/class-sober-vc.php:1057
+msgid "Custom"
+msgstr ""
+
+#: includes/class-sober-vc.php:1061
+msgid "Custom label"
+msgstr ""
+
+#: includes/class-sober-vc.php:1062
+msgid "Text label for the chart"
+msgstr ""
+
+#: includes/class-sober-vc.php:1082
+msgid "Sober Message Box"
+msgstr ""
+
+#: includes/class-sober-vc.php:1083
+msgid "Notification box with close button"
+msgstr ""
+
+#: includes/class-sober-vc.php:1089
+msgid "Type"
+msgstr ""
+
+#: includes/class-sober-vc.php:1090
+msgid "Select message box type"
+msgstr ""
+
+#: includes/class-sober-vc.php:1097
+msgid "Success"
+msgstr ""
+
+#: includes/class-sober-vc.php:1098
+msgid "Informational"
+msgstr ""
+
+#: includes/class-sober-vc.php:1099
+msgid "Error"
+msgstr ""
+
+#: includes/class-sober-vc.php:1100
+msgid "Warning"
+msgstr ""
+
+#: includes/class-sober-vc.php:1104
+msgid "Message Text"
+msgstr ""
+
+#: includes/class-sober-vc.php:1110
+msgid "Closeable"
+msgstr ""
+
+#: includes/class-sober-vc.php:1111
+msgid "Display close button for this box"
+msgstr ""
+
+#: includes/class-sober-vc.php:1130
+msgid "Icon Box"
+msgstr ""
+
+#: includes/class-sober-vc.php:1131
+msgid "Information box with icon"
+msgstr ""
+
+#: includes/class-sober-vc.php:1137
+msgid "Icon library"
+msgstr ""
+
+#: includes/class-sober-vc.php:1138
+msgid "Select icon library."
+msgstr ""
+
+#: includes/class-sober-vc.php:1142
+msgid "Font Awesome"
+msgstr ""
+
+#: includes/class-sober-vc.php:1143
+msgid "Open Iconic"
+msgstr ""
+
+#: includes/class-sober-vc.php:1144
+msgid "Typicons"
+msgstr ""
+
+#: includes/class-sober-vc.php:1145
+msgid "Entypo"
+msgstr ""
+
+#: includes/class-sober-vc.php:1146
+msgid "Linecons"
+msgstr ""
+
+#: includes/class-sober-vc.php:1147
+msgid "Mono Social"
+msgstr ""
+
+#: includes/class-sober-vc.php:1148
+msgid "Material"
+msgstr ""
+
+#: includes/class-sober-vc.php:1149
+msgid "Custom Image"
+msgstr ""
+
+#: includes/class-sober-vc.php:1153 includes/class-sober-vc.php:1168
+#: includes/class-sober-vc.php:1184 includes/class-sober-vc.php:1200
+#: includes/class-sober-vc.php:1216 includes/class-sober-vc.php:1232
+#: includes/class-sober-vc.php:1248
+msgid "Icon"
+msgstr ""
+
+#: includes/class-sober-vc.php:1154 includes/class-sober-vc.php:1169
+#: includes/class-sober-vc.php:1185 includes/class-sober-vc.php:1201
+#: includes/class-sober-vc.php:1217 includes/class-sober-vc.php:1233
+#: includes/class-sober-vc.php:1249
+msgid "Select icon from library."
+msgstr ""
+
+#: includes/class-sober-vc.php:1264
+msgid "Icon Image"
+msgstr ""
+
+#: includes/class-sober-vc.php:1265
+msgid "Upload icon image"
+msgstr ""
+
+#: includes/class-sober-vc.php:1275
+msgid "Icon Style"
+msgstr ""
+
+#: includes/class-sober-vc.php:1276
+msgid "Select icon style"
+msgstr ""
+
+#: includes/class-sober-vc.php:1281
+msgid "Circle"
+msgstr ""
+
+#: includes/class-sober-vc.php:1282
+msgid "Round"
+msgstr ""
+
+#: includes/class-sober-vc.php:1287 includes/class-sober-vc.php:1295
+msgid "The box title"
+msgstr ""
+
+#: includes/class-sober-vc.php:1291
+#: includes/shortcodes/class-sober-shortcodes.php:1070
+msgid "I am Icon Box"
+msgstr ""
+
+#: includes/class-sober-vc.php:1294 includes/class-sober-vc.php:1454
+#: includes/class-sober-vc.php:1510
+msgid "Content"
+msgstr ""
+
+#: includes/class-sober-vc.php:1299
+msgid "I am icon box. Click edit button to change this text."
+msgstr ""
+
+#: includes/class-sober-vc.php:1313
+msgid "Pricing Table"
+msgstr ""
+
+#: includes/class-sober-vc.php:1314
+msgid "Eye catching pricing table"
+msgstr ""
+
+#: includes/class-sober-vc.php:1320
+msgid "Plan Name"
+msgstr ""
+
+#: includes/class-sober-vc.php:1326
+msgid "Price"
+msgstr ""
+
+#: includes/class-sober-vc.php:1327
+msgid "Plan pricing"
+msgstr ""
+
+#: includes/class-sober-vc.php:1332
+msgid "Currency"
+msgstr ""
+
+#: includes/class-sober-vc.php:1333
+msgid "Price currency"
+msgstr ""
+
+#: includes/class-sober-vc.php:1339
+msgid "Recurrence"
+msgstr ""
+
+#: includes/class-sober-vc.php:1340
+msgid "Recurring payment unit"
+msgstr ""
+
+#: includes/class-sober-vc.php:1343
+#: includes/shortcodes/class-sober-shortcodes.php:1116
+msgid "Per Month"
+msgstr ""
+
+#: includes/class-sober-vc.php:1346
+msgid "Features"
+msgstr ""
+
+#: includes/class-sober-vc.php:1347
+msgid "Feature list of this plan. Click to arrow button to edit."
+msgstr ""
+
+#: includes/class-sober-vc.php:1352
+msgid "Feature name"
+msgstr ""
+
+#: includes/class-sober-vc.php:1357
+msgid "Feature value"
+msgstr ""
+
+#: includes/class-sober-vc.php:1367 includes/class-sober-vc.php:1373
+#: includes/shortcodes/class-sober-shortcodes.php:1118
+msgid "Get Started"
+msgstr ""
+
+#: includes/class-sober-vc.php:1376
+msgid "Table color"
+msgstr ""
+
+#: includes/class-sober-vc.php:1377
+msgid ""
+"Pick color scheme for this table. It will be applied to table header and "
+"button."
+msgstr ""
+
+#: includes/class-sober-vc.php:1394
+msgid "Sober Maps"
+msgstr ""
+
+#: includes/class-sober-vc.php:1395
+msgid "Google maps in style"
+msgstr ""
+
+#: includes/class-sober-vc.php:1401
+msgid "API Key"
+msgstr ""
+
+#: includes/class-sober-vc.php:1402
+msgid "Google requires an API key to work."
+msgstr ""
+
+#: includes/class-sober-vc.php:1407 includes/class-sober-vc.php:1629
+#: includes/shortcodes/class-sober-shortcodes.php:1424
+msgid "Address"
+msgstr ""
+
+#: includes/class-sober-vc.php:1408
+msgid "Enter address for map marker"
+msgstr ""
+
+#: includes/class-sober-vc.php:1414
+msgid "Marker"
+msgstr ""
+
+#: includes/class-sober-vc.php:1415
+msgid "Upload custom marker icon or leave this to use default marker."
+msgstr ""
+
+#: includes/class-sober-vc.php:1420
+msgid "Width"
+msgstr ""
+
+#: includes/class-sober-vc.php:1421
+msgid "Map width in pixel or percentage."
+msgstr ""
+
+#: includes/class-sober-vc.php:1427
+msgid "Height"
+msgstr ""
+
+#: includes/class-sober-vc.php:1428
+msgid "Map height in pixel."
+msgstr ""
+
+#: includes/class-sober-vc.php:1434
+msgid "Zoom"
+msgstr ""
+
+#: includes/class-sober-vc.php:1435
+msgid "Enter zoom level. The value is between 1 and 20."
+msgstr ""
+
+#: includes/class-sober-vc.php:1442
+msgid "Select map color style"
+msgstr ""
+
+#: includes/class-sober-vc.php:1447 includes/portfolio.php:355
+msgid "Default"
+msgstr ""
+
+#: includes/class-sober-vc.php:1448
+msgid "Grey"
+msgstr ""
+
+#: includes/class-sober-vc.php:1449
+msgid "Classic Black"
+msgstr ""
+
+#: includes/class-sober-vc.php:1450
+msgid "Vista Blue"
+msgstr ""
+
+#: includes/class-sober-vc.php:1455
+msgid "Enter content of info window."
+msgstr ""
+
+#: includes/class-sober-vc.php:1472
+msgid "Testimonial"
+msgstr ""
+
+#: includes/class-sober-vc.php:1473
+msgid "Written review from a satisfied customer"
+msgstr ""
+
+#: includes/class-sober-vc.php:1479
+msgid "Photo"
+msgstr ""
+
+#: includes/class-sober-vc.php:1480
+msgid "Author photo or avatar. Recommend 160x160 in dimension."
+msgstr ""
+
+#: includes/class-sober-vc.php:1485
+msgid "Name"
+msgstr ""
+
+#: includes/class-sober-vc.php:1486
+msgid "Enter full name of the author"
+msgstr ""
+
+#: includes/class-sober-vc.php:1492
+msgid "Company"
+msgstr ""
+
+#: includes/class-sober-vc.php:1493
+msgid "Enter company name of author"
+msgstr ""
+
+#: includes/class-sober-vc.php:1500
+msgid "Select testimonial alignment"
+msgstr ""
+
+#: includes/class-sober-vc.php:1511
+msgid "Testimonial content"
+msgstr ""
+
+#: includes/class-sober-vc.php:1528
+msgid "Partner Logos"
+msgstr ""
+
+#: includes/class-sober-vc.php:1529
+msgid "Show list of partner logo"
+msgstr ""
+
+#: includes/class-sober-vc.php:1535
+msgid "Image source"
+msgstr ""
+
+#: includes/class-sober-vc.php:1536
+msgid "Select images source"
+msgstr ""
+
+#: includes/class-sober-vc.php:1540
+msgid "Media library"
+msgstr ""
+
+#: includes/class-sober-vc.php:1541
+msgid "External Links"
+msgstr ""
+
+#: includes/class-sober-vc.php:1546
+msgid "Select images from media library"
+msgstr ""
+
+#: includes/class-sober-vc.php:1556 includes/class-sober-vc.php:1736
+msgid ""
+"Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by theme). Alternatively enter size in pixels (Example: "
+"200x100 (Width x Height)). Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: includes/class-sober-vc.php:1565
+msgid "External links"
+msgstr ""
+
+#: includes/class-sober-vc.php:1566
+msgid ""
+"Enter external links for partner logos (Note: divide links with linebreaks "
+"(Enter))."
+msgstr ""
+
+#: includes/class-sober-vc.php:1576
+msgid "Enter image size in pixels. Example: 200x100 (Width x Height)."
+msgstr ""
+
+#: includes/class-sober-vc.php:1585
+msgid "Custom links"
+msgstr ""
+
+#: includes/class-sober-vc.php:1586
+msgid "Enter links for each image here. Divide links with linebreaks (Enter)."
+msgstr ""
+
+#: includes/class-sober-vc.php:1591
+msgid "Custom link target"
+msgstr ""
+
+#: includes/class-sober-vc.php:1592
+msgid "Select where to open custom links."
+msgstr ""
+
+#: includes/class-sober-vc.php:1596
+msgid "Same window"
+msgstr ""
+
+#: includes/class-sober-vc.php:1597
+msgid "New window"
+msgstr ""
+
+#: includes/class-sober-vc.php:1601
+msgid "Layout"
+msgstr ""
+
+#: includes/class-sober-vc.php:1602
+msgid "Select the layout images source"
+msgstr ""
+
+#: includes/class-sober-vc.php:1606
+msgid "Bordered"
+msgstr ""
+
+#: includes/class-sober-vc.php:1607
+msgid "Plain"
+msgstr ""
+
+#: includes/class-sober-vc.php:1622
+msgid "Contact Box"
+msgstr ""
+
+#: includes/class-sober-vc.php:1623
+msgid "Contact information"
+msgstr ""
+
+#: includes/class-sober-vc.php:1630
+msgid "The office address"
+msgstr ""
+
+#: includes/class-sober-vc.php:1636
+#: includes/shortcodes/class-sober-shortcodes.php:1429
+msgid "Phone"
+msgstr ""
+
+#: includes/class-sober-vc.php:1637 includes/class-sober-vc.php:1658
+msgid "The phone number"
+msgstr ""
+
+#: includes/class-sober-vc.php:1643
+#: includes/shortcodes/class-sober-shortcodes.php:1435
+msgid "Fax"
+msgstr ""
+
+#: includes/class-sober-vc.php:1644
+msgid "The fax number"
+msgstr ""
+
+#: includes/class-sober-vc.php:1650
+#: includes/shortcodes/class-sober-shortcodes.php:1440
+msgid "Email"
+msgstr ""
+
+#: includes/class-sober-vc.php:1651
+msgid "The email adress"
+msgstr ""
+
+#: includes/class-sober-vc.php:1657
+#: includes/shortcodes/class-sober-shortcodes.php:1446
+msgid "Website"
+msgstr ""
+
+#: includes/class-sober-vc.php:1675
+msgid "FAQ"
+msgstr ""
+
+#: includes/class-sober-vc.php:1676
+msgid "Question and answer toggle"
+msgstr ""
+
+#: includes/class-sober-vc.php:1683
+#: includes/shortcodes/class-sober-shortcodes.php:1503
+msgid "Question"
+msgstr ""
+
+#: includes/class-sober-vc.php:1684
+msgid "Enter title of toggle block."
+msgstr ""
+
+#: includes/class-sober-vc.php:1689
+#: includes/shortcodes/class-sober-shortcodes.php:1477
+msgid "Question content goes here"
+msgstr ""
+
+#: includes/class-sober-vc.php:1692
+#: includes/shortcodes/class-sober-shortcodes.php:1505
+msgid "Answer"
+msgstr ""
+
+#: includes/class-sober-vc.php:1693
+msgid "Toggle block content."
+msgstr ""
+
+#: includes/class-sober-vc.php:1698
+msgid "Answer content goes here, click edit button to change this text."
+msgstr ""
+
+#: includes/class-sober-vc.php:1701
+msgid "Default state"
+msgstr ""
+
+#: includes/class-sober-vc.php:1702
+msgid "Select \"Open\" if you want toggle to be open by default."
+msgstr ""
+
+#: includes/class-sober-vc.php:1706
+msgid "Closed"
+msgstr ""
+
+#: includes/class-sober-vc.php:1707
+msgid "Open"
+msgstr ""
+
+#: includes/class-sober-vc.php:1722
+msgid "Team Member"
+msgstr ""
+
+#: includes/class-sober-vc.php:1723
+msgid "Single team member information"
+msgstr ""
+
+#: includes/class-sober-vc.php:1730
+msgid "Member photo"
+msgstr ""
+
+#: includes/class-sober-vc.php:1735
+msgid "Image Size"
+msgstr ""
+
+#: includes/class-sober-vc.php:1742
+msgid "Full Name"
+msgstr ""
+
+#: includes/class-sober-vc.php:1743
+msgid "Member name"
+msgstr ""
+
+#: includes/class-sober-vc.php:1749
+msgid "Job"
+msgstr ""
+
+#: includes/class-sober-vc.php:1750
+msgid "The job/position name of member in your team"
+msgstr ""
+
+#: includes/class-sober-vc.php:1756 includes/user.php:14
+msgid "Facebook"
+msgstr ""
+
+#: includes/class-sober-vc.php:1761 includes/user.php:15
+msgid "Twitter"
+msgstr ""
+
+#: includes/class-sober-vc.php:1766 includes/user.php:16
+msgid "Google Plus"
+msgstr ""
+
+#: includes/class-sober-vc.php:1771 includes/user.php:17
+msgid "Pinterest"
+msgstr ""
+
+#: includes/class-sober-vc.php:1776
+msgid "Linkedin"
+msgstr ""
+
+#: includes/class-sober-vc.php:1781
+msgid "Youtube"
+msgstr ""
+
+#: includes/class-sober-vc.php:1786 includes/user.php:18
+msgid "Instagram"
+msgstr ""
+
+#: includes/portfolio.php:90 includes/portfolio.php:525
+#: includes/portfolio.php:620 includes/portfolio.php:654
+msgctxt "slug"
+msgid "portfolio"
+msgstr ""
+
+#: includes/portfolio.php:92
+msgctxt "slug"
+msgid "portfolio-type"
+msgstr ""
+
+#: includes/portfolio.php:95
+msgid "Portfolio Items"
+msgstr ""
+
+#: includes/portfolio.php:97 includes/portfolio.php:99
+#: includes/portfolio.php:225 includes/portfolio.php:248
+msgid "Portfolio"
+msgstr ""
+
+#: includes/portfolio.php:98 includes/portfolio.php:179
+msgid "Project"
+msgstr ""
+
+#: includes/portfolio.php:100
+msgid "All Projects"
+msgstr ""
+
+#: includes/portfolio.php:101
+msgid "Add New"
+msgstr ""
+
+#: includes/portfolio.php:102
+msgid "Add New Project"
+msgstr ""
+
+#: includes/portfolio.php:103
+msgid "Edit Project"
+msgstr ""
+
+#: includes/portfolio.php:104
+msgid "New Project"
+msgstr ""
+
+#: includes/portfolio.php:105
+msgid "View Project"
+msgstr ""
+
+#: includes/portfolio.php:106
+msgid "Search Projects"
+msgstr ""
+
+#: includes/portfolio.php:107
+msgid "No Projects found"
+msgstr ""
+
+#: includes/portfolio.php:108
+msgid "No Projects found in Trash"
+msgstr ""
+
+#: includes/portfolio.php:109
+msgid "Filter projects list"
+msgstr ""
+
+#: includes/portfolio.php:110
+msgid "Project list navigation"
+msgstr ""
+
+#: includes/portfolio.php:111
+msgid "Projects list"
+msgstr ""
+
+#: includes/portfolio.php:142 includes/portfolio.php:144
+msgid "Project Types"
+msgstr ""
+
+#: includes/portfolio.php:143
+msgid "Project Type"
+msgstr ""
+
+#: includes/portfolio.php:145
+msgid "All Project Types"
+msgstr ""
+
+#: includes/portfolio.php:146
+msgid "Edit Project Type"
+msgstr ""
+
+#: includes/portfolio.php:147
+msgid "View Project Type"
+msgstr ""
+
+#: includes/portfolio.php:148
+msgid "Update Project Type"
+msgstr ""
+
+#: includes/portfolio.php:149
+msgid "Add New Project Type"
+msgstr ""
+
+#: includes/portfolio.php:150
+msgid "New Project Type Name"
+msgstr ""
+
+#: includes/portfolio.php:151
+msgid "Parent Project Type"
+msgstr ""
+
+#: includes/portfolio.php:152
+msgid "Parent Project Type:"
+msgstr ""
+
+#: includes/portfolio.php:153
+msgid "Search Project Types"
+msgstr ""
+
+#: includes/portfolio.php:154
+msgid "Project type list navigation"
+msgstr ""
+
+#: includes/portfolio.php:155
+msgid "Project type list"
+msgstr ""
+
+#: includes/portfolio.php:232
+msgid "Portfolio Projects"
+msgstr ""
+
+#: includes/portfolio.php:255
+msgid "Portfolio page"
+msgstr ""
+
+#: includes/portfolio.php:269
+msgid "Portfolio items show at most"
+msgstr ""
+
+#: includes/portfolio.php:284
+msgid "Portfolio Item Permalink"
+msgstr ""
+
+#: includes/portfolio.php:291
+msgid "Portfolio type base"
+msgstr ""
+
+#: includes/portfolio.php:311
+msgid "Use these settings to display custom types of content on your site"
+msgstr ""
+
+#: includes/portfolio.php:322
+msgid "Use these settings to control custom post type content"
+msgstr ""
+
+#: includes/portfolio.php:336 includes/portfolio.php:337
+#: includes/portfolio.php:535
+msgctxt "Default slug"
+msgid "portfolio"
+msgstr ""
+
+#: includes/portfolio.php:346
+msgid ""
+"Use these settings to control the permalink used specifically for portfolio."
+msgstr ""
+
+#: includes/portfolio.php:368
+msgid "Portfolio base"
+msgstr ""
+
+#: includes/portfolio.php:380
+msgid "Portfolio base with type"
+msgstr ""
+
+#: includes/portfolio.php:390
+msgid "Custom Base"
+msgstr ""
+
+#: includes/portfolio.php:438
+msgid "Enable Portfolio Projects for this site."
+msgstr ""
+
+#: includes/portfolio.php:451
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: includes/portfolio.php:466
+msgctxt "Portfolio items per page"
+msgid "items"
+msgstr ""
+
+#: includes/portfolio.php:481
+msgctxt "Portfolio type base"
+msgid "portfolio-type"
+msgstr ""
+
+#: includes/portfolio.php:719
+msgctxt "slug"
+msgid "uncategorized"
+msgstr ""
+
+#: includes/portfolio.php:767 includes/portfolio.php:788
+msgctxt "Portfolio post type breadcrumb"
+msgid "Portfolio"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:250
+msgid "Show All"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:268
+#: includes/shortcodes/class-sober-shortcodes.php:270
+msgid "Best Sellers"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:272
+msgid "New Products"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:273
+msgid "Sales Products"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:396
+msgid "Read More"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:439
+msgid "Days"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:440
+msgid "Hours"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:441
+msgid "Mins"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:442
+msgid "Sec"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:656
+msgid "Add to cart"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:660
+msgid "View Product"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:886
+msgid "View detail"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:1191
+msgid "Google map requires API Key in order to work."
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:1621
+#: includes/shortcodes/class-sober-shortcodes.php:1629
+msgid "Can not connect to Google Maps APIs"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:1647
+msgid "No location found for the entered address."
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:1649
+msgid "Invalid request. Did you enter an address?"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:1651
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:1654
+msgid "Unable to contact Google API service."
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:1746
+msgid "Load More"
+msgstr ""
+
+#. Name of the plugin
+msgid "Sober Addons"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A collection of extra elements for Visual Composer. It was made for Sober "
+"premium theme and requires Sober theme installed in order to work properly."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://uix.store/sober"
+msgstr ""
+
+#. Author of the plugin
+msgid "UIX Themes"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://uix.store"
+msgstr ""

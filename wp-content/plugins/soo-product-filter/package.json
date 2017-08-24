@@ -1,0 +1,5 @@
+{
+	"scripts": {
+		"css": "lessc assets/css/frontend.less --autoprefix=\"last 2 versions, ie >= 9\" > assets/css/frontend.css"
+	}
+}

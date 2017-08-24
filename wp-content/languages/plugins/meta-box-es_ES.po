@@ -1,0 +1,203 @@
+# Translation of Plugins - Meta Box - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Meta Box - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-29 14:55:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Meta Box - Stable (latest release)\n"
+
+#: inc/fields/media.php:34
+msgctxt "media"
+msgid "or"
+msgstr "o"
+
+#: inc/fields/select-advanced.php:46
+msgid "Select an item"
+msgstr "Selecciona un elemento"
+
+#: inc/fields/media.php:35
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr "Arrastra aquí los archivos para subirlos"
+
+#: inc/fields/media.php:33
+msgctxt "media"
+msgid "Select Files"
+msgstr "Seleccionar archivos"
+
+#: inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr "Elige un término"
+
+#: inc/fields/media.php:30
+msgctxt "media"
+msgid "No Title"
+msgstr "Sin título"
+
+#: inc/fields/media.php:26
+msgctxt "media"
+msgid " files"
+msgstr "archivos"
+
+#: inc/fields/media.php:25
+msgctxt "media"
+msgid " file"
+msgstr "archivo"
+
+#: inc/fields/media.php:29
+msgctxt "media"
+msgid "View"
+msgstr "Ver"
+
+#: inc/fields/media.php:28
+msgctxt "media"
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/fields/media.php:27
+msgctxt "media"
+msgid "Remove"
+msgstr "Eliminar"
+
+#: inc/fields/media.php:24
+msgctxt "media"
+msgid "+ Add Media"
+msgstr "+ Añadir medios"
+
+#: inc/field.php:343
+msgid "+ Add more"
+msgstr "+ Añadir más"
+
+#. Author URI of the plugin/theme
+msgid "http://www.deluxeblogtips.com"
+msgstr "http://www.deluxeblogtips.com"
+
+#. Plugin URI of the plugin/theme
+msgid "https://metabox.io"
+msgstr "http://metabox.io"
+
+#. Plugin Name of the plugin/theme
+msgid "Meta Box"
+msgstr "Meta Box"
+
+#: inc/validation.php:47
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Por favor, corrige los errores resaltados abajo e inténtalo de nuevo."
+
+#: inc/fields/user.php:30
+msgid "Select an user"
+msgstr "Selecciona un usuario"
+
+#: inc/fields/select.php:87
+msgid "None"
+msgstr "Ninguno"
+
+#: inc/fields/select.php:87
+msgid "All"
+msgstr "Todo"
+
+#. Translators: %s is the post type singular label.
+#. Translators: %s is the taxonomy singular label.
+#: inc/fields/post.php:41 inc/fields/taxonomy.php:52
+msgid "Select a %s"
+msgstr "Selecciona un %s"
+
+#: inc/fields/post.php:36
+msgid "Select a post"
+msgstr "Seleccionar una publicación"
+
+#: inc/fields/oembed.php:79
+msgid "Preview"
+msgstr "Vista previa"
+
+#: inc/fields/oembed.php:64
+msgid "Embed HTML not available."
+msgstr "HTML incrustado no disponible."
+
+#: inc/fields/map.php:62
+msgid "Find Address"
+msgstr "Encontrar dirección"
+
+#: inc/fields/key-value.php:127
+msgid "Value"
+msgstr "Valor"
+
+#: inc/fields/key-value.php:126
+msgid "Key"
+msgstr "Clave"
+
+#: inc/fields/thickbox-image.php:55
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr "Subir imágenes"
+
+#: inc/fields/file.php:93
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ Añadir un archivo nuevo"
+
+#: inc/fields/file.php:79
+msgid "Error: Cannot delete file"
+msgstr "Error: No se puede eliminar el archivo"
+
+#. Translators: %d is the number of files in plural form.
+#: inc/fields/file.php:23
+msgid "You may only upload maximum %d files"
+msgstr "Sólo puedes subir un máximo de %d archivos"
+
+#. Translators: %d is the number of files in singular form.
+#: inc/fields/file.php:21
+msgid "You may only upload maximum %d file"
+msgstr "Sólo puedes subir un máximo de %d archivo"
+
+#: inc/fields/file-input.php:40
+msgid "Remove"
+msgstr "Eliminar"
+
+#: inc/fields/file-input.php:38 inc/fields/select.php:87
+msgid "Select"
+msgstr "Seleccionar"
+
+#: inc/fields/file-input.php:19
+msgid "Select File"
+msgstr "Seleccionar archivo"
+
+#: inc/fields/file.php:144
+msgctxt "file upload"
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/fields/file.php:143
+msgctxt "file upload"
+msgid "Delete"
+msgstr "Eliminar"
+
+#: inc/fields/checkbox.php:50
+msgid "No"
+msgstr "No"
+
+#: inc/fields/checkbox.php:50
+msgid "Yes"
+msgstr "Si"
+
+#: inc/fields/button.php:32
+msgid "Click me"
+msgstr "Clic aquí"
+
+#: inc/fields/autocomplete.php:20 inc/fields/autocomplete.php:81
+#: inc/fields/autocomplete.php:93
+msgid "Delete"
+msgstr "Borrar"
+
+#: inc/core.php:34
+msgid "Extensions"
+msgstr "Extensiones"
+
+#: inc/core.php:33
+msgid "Documentation"
+msgstr "Documentación"

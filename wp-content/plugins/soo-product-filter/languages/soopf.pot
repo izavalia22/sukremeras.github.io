@@ -1,0 +1,143 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-07 10:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the plugin
+#: soo-product-filter.php:67
+msgid "Soo Product Filter"
+msgstr ""
+
+#: soo-product-filter.php:70
+msgid "Display product filters"
+msgstr ""
+
+#: soo-product-filter.php:286
+msgid "Title"
+msgstr ""
+
+#: soo-product-filter.php:292
+msgid "Use ajax for filtering"
+msgstr ""
+
+#: soo-product-filter.php:299
+msgid "There is no filter yet."
+msgstr ""
+
+#: soo-product-filter.php:306 soo-product-filter.php:963
+msgid "Filter Name"
+msgstr ""
+
+#: soo-product-filter.php:312 soo-product-filter.php:969
+msgid "Filter By"
+msgstr ""
+
+#: soo-product-filter.php:331 soo-product-filter.php:984
+msgid "Display Type"
+msgstr ""
+
+#: soo-product-filter.php:340 soo-product-filter.php:991
+msgid "Multiple select"
+msgstr ""
+
+#: soo-product-filter.php:341 soo-product-filter.php:992
+msgid "Single select"
+msgstr ""
+
+#: soo-product-filter.php:346 soo-product-filter.php:997
+msgid "Remove filter"
+msgstr ""
+
+#: soo-product-filter.php:355
+msgid "Add new filter"
+msgstr ""
+
+#: soo-product-filter.php:399
+#, php-format
+msgid "Any %s"
+msgstr ""
+
+#: soo-product-filter.php:402
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: soo-product-filter.php:576
+msgid "Range:"
+msgstr ""
+
+#: soo-product-filter.php:595
+msgid "Any"
+msgstr ""
+
+#: soo-product-filter.php:875
+msgid "Price"
+msgstr ""
+
+#: soo-product-filter.php:876
+msgid "Category"
+msgstr ""
+
+#: soo-product-filter.php:877
+msgid "Tag"
+msgstr ""
+
+#: soo-product-filter.php:878
+msgid "Attributes"
+msgstr ""
+
+#: soo-product-filter.php:885
+msgid "Slider"
+msgstr ""
+
+#: soo-product-filter.php:888 soo-product-filter.php:893
+#: soo-product-filter.php:899
+msgid "Dropdown"
+msgstr ""
+
+#: soo-product-filter.php:889 soo-product-filter.php:894
+#: soo-product-filter.php:900
+msgid "Vertical List"
+msgstr ""
+
+#: soo-product-filter.php:890 soo-product-filter.php:895
+#: soo-product-filter.php:901
+msgid "Horizontal List"
+msgstr ""
+
+#: soo-product-filter.php:898
+msgid "Auto"
+msgstr ""
+
+#: soo-product-filter.php:1033
+msgid ""
+"Soo Product Filter is enabled but not effective. It requires WooCommerce in "
+"order to work."
+msgstr ""
+
+#. Description of the plugin
+msgid "An extension of WooCommerce for filtering product"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://soothemes.com/plugin/wc-product-filter"
+msgstr ""
+
+#. Author of the plugin
+msgid "SooThemes"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://soothemes.com/"
+msgstr ""

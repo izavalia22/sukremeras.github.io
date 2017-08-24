@@ -1,5 +1,5 @@
 <?php
-/** 
+/**
  * Configuración básica de WordPress.
  *
  * Este archivo contiene las siguientes configuraciones: ajustes de MySQL, prefijo de tablas,
@@ -19,10 +19,10 @@
 define('DB_NAME', 'sukremeras');
 
 /** Tu nombre de usuario de MySQL */
-define('DB_USER', 'root');
+define('DB_USER', 'izavalia');
 
 /** Tu contraseña de MySQL */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'cryptoMonsun22');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
 define('DB_HOST', 'localhost');
@@ -79,4 +79,3 @@ if ( !defined('ABSPATH') )
 
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
-
